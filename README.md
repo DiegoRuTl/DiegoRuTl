@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;Sobre Mim </h3>
 
 - 🤔 &nbsp; Explorando e me desafiando com novas tecnologias. 
-- 🎓 &nbsp; Estudante de Análise e Desenvolvimento de Sistemas na PUC-MG.
+- 🎓 &nbsp; Graduando em Análise e Desenvolvimento de Sistemas na PUC-MG.
 
 <h3> 🛠 &nbsp;Conhecimentos</h3>
 
